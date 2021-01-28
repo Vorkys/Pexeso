@@ -1,2 +1,2 @@
 # Pexeso
-classic peceso game
+classic peceso game with numbers
